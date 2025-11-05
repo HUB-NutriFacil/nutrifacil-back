@@ -1,4 +1,4 @@
-const MercadoPagoService = require('../services/MercadoPagoService');
+const MercadoPagoService = require('../services/mercadoPagoService');
 const logger = require('../config/logger');
 
 class PaymentController {
